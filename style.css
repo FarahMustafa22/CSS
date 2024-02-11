@@ -1,0 +1,39 @@
+
+body
+{
+    vertical-align: center;
+    width: 70%;
+    margin: auto;
+}
+
+.container
+{
+    
+     display: flex;
+     height: 100vh;
+
+}
+
+h2{
+    text-align: center;
+}
+
+.container1
+{
+    background-color: darkcyan;
+    height: 100%;
+    float: left;
+}
+
+.container2
+{
+    background-color: rgb(240, 233, 233);
+    height: 100%;
+    float: right;
+}
+.img1
+{
+    width: 200px;
+    border-radius: 50%;
+    
+  }
